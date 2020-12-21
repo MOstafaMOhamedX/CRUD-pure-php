@@ -1,0 +1,48 @@
+.con {
+    width: 80%;
+    height: 65%;
+    margin: 30px auto auto auto;
+    text-align: center;
+    align-items: center;
+    font-weight: bold;
+    font-family: cursive;
+    background-color: #ccc;
+    padding: 80px
+}
+
+input {
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    padding: 3px 0px 3px 7px;
+    margin: 10px;
+}
+
+input[type='submit'] {
+    padding: 10px 25px 8px;
+    color: #fff;
+    background-color: #0067ab;
+    text-shadow: rgba(0, 0, 0, 0.24) 0 1px 0;
+    font-size: 16px;
+    box-shadow: rgba(255, 255, 255, 0.24) 0 2px 0 0 inset, #fff 0 1px 0 0;
+    border: 1px solid #0164a5;
+    border-radius: 2px;
+    margin-top: 10px;
+    margin-left: 150px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: darkblue;
+}
+
+a:hover {
+    color: rgb(0, 0, 255);
+}
+
+.con table {
+    align-items: center;
+    text-align: center;
+}
